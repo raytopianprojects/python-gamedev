@@ -9,6 +9,7 @@ Python is a easy language to use with an amazing ecosystem that supports it. Pyt
 - Libraries like Numpy, Pandas, and Scipy allow you to speed up your game by making fast data structures simple to use and create.
 - Python's machine learning libraries allow you to experiement with advanced AI, image upscalling, and much more
 - The gamedev ecosystem surronding Python is begining to experience a boom with the release of Pygame2 and Ursina Engine
+- Python makes it easy to interface with C/C++ and Rust so you only have to write low level code for the parts you have to
 
 ## Things to Keep in Mind
 While Python is great in many ways it's not perfect
@@ -20,15 +21,15 @@ While Python is great in many ways it's not perfect
 
 # Ecosystem
 ## Game Libraries
-- [Ursina Engine](https://www.ursinaengine.org/) An easy to use game engine/framework for python built on top of Panda3d.
-- [Pygame](https://www.pygame.org/) Pygame is a set of Python modules designed for writing video games. Pygame adds functionality on top of the excellent SDL library. This allows you to create fully featured games and multimedia programs in the python language.
-- [Pyglet](http://pyglet.org/) pyglet is a powerful, yet easy to use Python library for developing games and other visually-rich applications on Windows, Mac OS X and Linux.
-- [Panda3d](https://www.panda3d.org/) Panda3D is an open-source, completely free-to-use engine for realtime 3D games, visualizations, simulations, experiments — you name it! Its rich feature set readily tailors to your specific workflow and development needs.
-- [Wasabi2d](https://wasabi2d.readthedocs.io/en/stable/) Wasabi2d is a game engine for Python, making it easy to use fast, modern graphical effects without low-level OpenGL programming.
-- [Pygame Zero](https://pygame-zero.readthedocs.io/en/stable/index.html) Pygame Zero is for creating games without boilerplate. It is intended for use in education, so that teachers can teach basic programming without needing to explain the Pygame API or write an event loop.
-- [cocos2d](https://pypi.org/project/cocos2d/) A framework for building 2D games, demos, and other graphical/interactive applications.
+- [Ursina Engine](https://www.ursinaengine.org/) - An easy to use game engine/framework for python built on top of Panda3d.
+- [Pygame](https://www.pygame.org/) - Pygame is a set of Python modules designed for writing video games. Pygame adds functionality on top of the excellent SDL library. This allows you to create fully featured games and multimedia programs in the python language.
+- [Pyglet](http://pyglet.org/) - pyglet is a powerful, yet easy to use Python library for developing games and other visually-rich applications on Windows, Mac OS X and Linux.
+- [Panda3d](https://www.panda3d.org/) - Panda3D is an open-source, completely free-to-use engine for realtime 3D games, visualizations, simulations, experiments — you name it! Its rich feature set readily tailors to your specific workflow and development needs.
+- [Wasabi2d](https://wasabi2d.readthedocs.io/en/stable/) - Wasabi2d is a game engine for Python, making it easy to use fast, modern graphical effects without low-level OpenGL programming.
+- [Pygame Zero](https://pygame-zero.readthedocs.io/en/stable/index.html) - Pygame Zero is for creating games without boilerplate. It is intended for use in education, so that teachers can teach basic programming without needing to explain the Pygame API or write an event loop.
+- [cocos2d](https://pypi.org/project/cocos2d/) - A framework for building 2D games, demos, and other graphical/interactive applications.
 Draws using OpenGL, which is hardware accelerated.
-- [Kivy](https://kivy.org/#home)  Kivy - Open source Python library for rapid development of applications that make use of innovative user interfaces, such as multi-touch apps.
+- [Kivy](https://kivy.org/#home) - Kivy - Open source Python library for rapid development of applications that make use of innovative user interfaces, such as multi-touch apps.
 
 ## Game Engine Bindings
 - Unity
