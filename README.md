@@ -20,16 +20,23 @@ While Python is great in many ways it's not perfect
 
 # Ecosystem
 ## Game Libraries
-Ursina Engine
-Pygame
-Pyglet
+- Ursina Engine
+- Pygame
+- Pyglet
+- Panda3d
+- Wasabi2d
+- Pygame Zero 
 
 ## Game Engine Bindings
+- Unity
+- Allegro
+- Godot
+
 ## Graphics Libraries
-Tkinter
-ModernGl
-Ogre3d
-PyOpenGl
+- Tkinter
+- ModernGl
+- Ogre3d
+- PyOpenGl
 
 ## Audio Libraries
 - playsound
