@@ -1,5 +1,5 @@
-# python-gamedev
-A repo to promote game development (gamedev) in Python.
+# Python Gamedev
+A repo to promote game development (gamedev) in Python! Help us add resources by making a pull request :) Thank You!
 
 ## Why Python?
 Python is a easy language to use with an amazing ecosystem that supports it. Python also is one of the most popular programming languages in the world and continues to grow and improve. 
@@ -39,8 +39,13 @@ PyOpenGl
 - pydub
 - pyaudio
 
+# Games
+Games built in Python
+
 # Communities
 ## GitHub
 ## Discord
 ## Forums
 ## Mailing List
+
+PS You're awesome!!!
