@@ -1,5 +1,5 @@
 # Python Gamedev
-A repo to promote game development (gamedev) in Python! Help us add resources by making a pull request :) Thank You!
+A repo to promote game development (gamedev) in Python! Help us add resources by making a pull request and promoting gamedev in Python :) Thank You!
 
 ## Why Python?
 Python is a easy language to use with an amazing ecosystem that supports it. Python also is one of the most popular programming languages in the world and continues to grow and improve. 
@@ -20,12 +20,13 @@ While Python is great in many ways it's not perfect
 
 # Ecosystem
 ## Game Libraries
-- Ursina Engine
-- Pygame
-- Pyglet
+- Ursina Engine 
+- [Pygame](https://www.pygame.org/) Pygame is a set of Python modules designed for writing video games. Pygame adds functionality on top of the excellent SDL library. This allows you to create fully featured games and multimedia programs in the python language.
+- [Pyglet](http://pyglet.org/)
 - Panda3d
-- Wasabi2d
-- Pygame Zero 
+- [Wasabi2d](https://wasabi2d.readthedocs.io/en/stable/) Wasabi2d is a game engine for Python, making it easy to use fast, modern graphical effects without low-level OpenGL programming.
+- [Pygame Zero](https://pygame-zero.readthedocs.io/en/stable/index.html) Pygame Zero is for creating games without boilerplate. It is intended for use in education, so that teachers can teach basic programming without needing to explain the Pygame API or write an event loop.
+- [cocos2d](https://pypi.org/project/cocos2d/)
 
 ## Game Engine Bindings
 - Unity
