@@ -25,6 +25,7 @@ While Python is great in many ways it's not perfect
 - [Pygame](https://www.pygame.org/) - Pygame is a set of Python modules designed for writing video games. Pygame adds functionality on top of the excellent SDL library. This allows you to create fully featured games and multimedia programs in the python language.
 - [Ren'Py](https://www.renpy.org/) Ren'Py is a visual novel engine – used by thousands of creators from around the world – that helps you use words, images, and sounds to tell interactive stories that run on computers and mobile devices. 
 - [Pyglet](http://pyglet.org/) - pyglet is a powerful, yet easy to use Python library for developing games and other visually-rich applications on Windows, Mac OS X and Linux.
+- [Arcade](https://arcade.academy/index.html)
 - [Panda3d](https://www.panda3d.org/) - Panda3D is an open-source, completely free-to-use engine for realtime 3D games, visualizations, simulations, experiments — you name it! Its rich feature set readily tailors to your specific workflow and development needs.
 - [Wasabi2d](https://wasabi2d.readthedocs.io/en/stable/) - Wasabi2d is a game engine for Python, making it easy to use fast, modern graphical effects without low-level OpenGL programming.
 - [Pygame Zero](https://pygame-zero.readthedocs.io/en/stable/index.html) - Pygame Zero is for creating games without boilerplate. It is intended for use in education, so that teachers can teach basic programming without needing to explain the Pygame API or write an event loop.
