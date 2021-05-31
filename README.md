@@ -46,6 +46,8 @@ While Python is great in many ways it's not perfect
 - pydub
 - pyaudio
 
+## Resources
+
 # Games
 Games built in Python
 
