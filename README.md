@@ -51,8 +51,9 @@ Games built in Python
 
 # Communities
 ## GitHub
+- [This repo's discussion](https://github.com/raytopianprojects/python-gamedev/discussions)
 ## Discord
 ## Forums
-## Mailing List
+## Mailing Lists
 
 PS You're awesome!!!
